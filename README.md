@@ -16,7 +16,7 @@ Our project adapts this challenge to a course setting. We work with a subset of 
 Due to time constraints, our session project focused exclusively on the segmentation task. While the original ACDC challenge also includes diagnostic classification based on extracted cardiac features, we limited the scope to developing and evaluating models capable of accurately segmenting the key cardiac structures in MRI images—specifically the left ventricle, right ventricle, and myocardium. This allowed us to concentrate on mastering the preprocessing steps, implementing segmentation architectures such as U-Net, and analyzing performance metrics like Dice scores, all within the timeframe of the course.
 
 ## Team
-- [@paulmerceur](https://github.com/paulmerceur)
+- [@paulmerceur](https://github.com/paulmerceur) 
 - [@Joaquim2805](https://github.com/Joaquim2805)
 - [@HeosFx](https://github.com/HeosFx)
 
